@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Yarn Chase Game](https://github.com/Alleluyahamisi/comp2000-Yarn-Chase)
 
-- 🌱 I’m currently learning **NEXT.JS, REACT, openclaw & claude skills **
+- 🌱 I’m currently learning **NEXT.JS, REACT, OPENCLAW & CLAUDE SKILLS **
 
 - 👯 I’m have collaborated on [Eng2000 Bridge Control System](https://github.com/Alleluyahamisi/Eng2000)
 
