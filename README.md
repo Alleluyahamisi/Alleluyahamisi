@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on [Yarn Chase Game](https://github.com/Alleluyahamisi/comp2000-Yarn-Chase)
 
-- 🌱 I’m currently learning **NEXT.JS, REACT, OPENCLAW & CLAUDE SKILLS **
+- 🌱 I’m currently learning **NEXT.JS, REACT, OPENCLAW & CLAUDE SKILLS**
 
 - 👯 I’m have collaborated on [Eng2000 Bridge Control System](https://github.com/Alleluyahamisi/Eng2000)
 
 - 🤝 I’m looking for help with **AI Personal Managament App**
 
-- 💬 Ask me about **Internship opporunities, graduate roles & contribution opportunities **
+- 💬 Ask me about **Internship opporunities, graduate roles & contribution opportunities**
 
 - ⚡ Fun fact **I like to play sports, game and go to the gym**
